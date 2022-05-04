@@ -1,0 +1,3 @@
+@echo off
+
+gifmaker.py %*
